@@ -5,19 +5,12 @@ Sou um eterno estudante apaixonado por Analise de Dados com formação em Engenh
 
 ### Interesses
 
-•	Machine Learning <br>
-•	Análise de dados<br>
-•	Visualização de dados<br>
-•	Big Data<br>
-•	Cloud Computing<br>
+⚙️	Machine Learning <br>
+👨🏾‍💻	Análise de dados<br>
+📊 Visualização de dados<br>
+🌐	Big Data<br>
+🖥️	Cloud Computing<br>
 
-### Habilidades:
-
-•	Python<br>
-•	Power BI<br>
-•	SQL<br>
-•	Noções de Machine Learning<br>
-•	Experiência com análise de dados em projetos Industriais<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanclerluiz&&show_icons=true&theme=onedark) <br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanclerluiz&show_icons=true&theme=onedark)<br><br>
