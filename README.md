@@ -19,7 +19,8 @@ Sou um eterno estudante apaixonado por Analise de Dados com formação em Engenh
 •	Noções de Machine Learning<br>
 •	Experiência com análise de dados em projetos Industriais<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanclerribeiro&&show_icons=true&theme=dracula) <br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanclerluiz&&show_icons=true&theme=onedark) <br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanclerluiz&show_icons=true&theme=onedark)<br><br>
 
 ## Você consegue me achar em
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=Flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sancler-luiz-ribeiro-562850146/)
